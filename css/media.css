@@ -1,0 +1,125 @@
+@media (max-width:1024px) {
+    aside {
+        max-width: 200px;
+        width: 100%;
+        height: 3178px;
+    }
+
+    .followword {
+        display: none;
+    }
+
+    .follower {
+        margin-left: 20px;
+    }
+
+    .follower1 {
+        margin-left: 20px;
+    }
+
+    .gopro {
+        display: none;
+    }
+
+    .notifications {
+        display: none;
+    }
+
+    .notification {
+        display: none;
+    }
+
+    .pageoptions {
+        display: none;
+    }
+
+    .filters {
+        margin-left: 250px;
+    }
+
+    .middlepage {
+        margin: 30px 70px;
+    }
+
+    .mid-loader {
+        margin-left: 180px;
+    }
+
+    .directories {
+        max-width: 150px;
+    }
+}
+
+@media (max-width:480px) {
+    h1 {
+        display: none;
+    }
+
+    .all-nav {
+        display: none;
+    }
+
+    .follow {
+        display: none;
+    }
+
+    .mid-loader {
+        width: 200px;
+        margin-left: 80px;
+    }
+
+    aside {
+        height: 6170px;
+    }
+
+    .filters {
+        margin-left: 60px;
+    }
+
+    .burger {
+        max-width: 15px;
+    }
+
+    .divbar1 {
+        max-width: 5px;
+        max-height: 5px;
+        margin: 0;
+    }
+
+    .top-one {
+        margin: 0;
+        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .view-all {
+        margin: 30px 50px 30px 0;
+    }
+
+    .top {
+        margin-right: 30px;
+    }
+
+    .design {
+        display: none;
+    }
+
+    .secondburger {
+        display: block;
+    }
+
+    .burger {
+        max-width: 15px;
+    }
+
+    .design {
+        margin: 0;
+    }
+
+    aside {
+        height: 50px;
+        width: 50px;
+        position: fixed;
+    }
+}
